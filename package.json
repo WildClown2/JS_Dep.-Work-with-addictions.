@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "nodemon"
+  },
+  "name": "dependencies_work_N_1",
+  "version": "1.0.0",
+  "repository": "https://github.com/WildClown2/JS_Dep.-Work-with-addictions.",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
